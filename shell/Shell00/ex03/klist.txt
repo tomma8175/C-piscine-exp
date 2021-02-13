@@ -1,0 +1,6 @@
+Credentials cache: API:438F9B5C-0FF0-47F3-98E4-917363D16B3D
+        Principal: tmkrtchy@42YEREVAN.AM
+
+  Issued                Expires               Principal
+Oct 29 11:25:39 2020  Oct 29 21:25:39 2020  krbtgt/42YEREVAN.AM@42YEREVAN.AM
+Oct 29 11:25:41 2020  Oct 29 21:25:39 2020  HTTP/storage.42yerevan.am@42YEREVAN.AM
